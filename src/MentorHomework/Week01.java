@@ -66,14 +66,7 @@ public class Week01 {
 
         System.out.println("Girilen " + girilenSayi + " sayisinin rakamlar toplami : " + rakamlarToplami);
 
-      //  int sayi = 34 ;
-      //  int toplam = 0;
-
-      //  while ( sayi>0){
-      //      toplam += sayi%10 ;
-      //      sayi/=10 ;
         }
-        //System.out.println("verilen sayinin rakamlari toplami: " + toplam);
 
     //===========================================001 sonu
 
